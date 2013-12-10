@@ -18,4 +18,8 @@ class StudentsController < ApplicationController
     def show
         @student = Student.show
     end
+    
+    def validation
+    
+    end
 end
