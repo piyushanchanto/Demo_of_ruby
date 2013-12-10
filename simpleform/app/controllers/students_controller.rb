@@ -20,6 +20,8 @@ class StudentsController < ApplicationController
     end
     
     def validation
-    
+      validation apply here..
+      
     end
+    jlasdflkjasl
 end
